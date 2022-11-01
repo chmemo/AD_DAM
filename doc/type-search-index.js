@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"es.florida.AE2","l":"App"},{"p":"es.florida.AE2","l":"Controlador"},{"p":"es.florida.AE2","l":"Modelo"},{"p":"es.florida.AE2","l":"Vista"}];updateSearchResults();
